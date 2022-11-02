@@ -5,13 +5,12 @@
 
 Term: Fall 2022
 
-+ Team ##
++ Team 10
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ team member 1 : Weilin Zhou
+	+ team member 2 : Jiaxi Fang	
+	+ team member 3 : Samira Kamal	
+	+ team member 4 : Yizhou Zhao	
 
 + Project summary: In this project, we created ...
 	
