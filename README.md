@@ -12,7 +12,7 @@ Term: Fall 2022
 	+ team member 3 : Samira Kamal	
 	+ team member 4 : Yizhou Zhao	
 
-+ Project summary: In this project, we created ...
++ Project summary:
 	
 **Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
