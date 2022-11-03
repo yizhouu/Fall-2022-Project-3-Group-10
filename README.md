@@ -12,7 +12,7 @@ Term: Fall 2022
 	+ team member 3 : Samira Kamal	
 	+ team member 4 : Yizhou Zhao	
 
-+ Project summary:
++ Project summary: In this project, we use CNN model for image classifications for noisy labels. CNN model is powerful in image processing, and we use it to create our own prediction model and improving its efficiency.
 	
 **Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
